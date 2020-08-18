@@ -15,7 +15,7 @@ A arquitetura desenvolvida durante a semana não foi implementa por completo o c
 * React Js
 * React Native Js
 * Node Js
-* AsynStorege
+* AsyncStorage
 
 
 # Banco de Dados
